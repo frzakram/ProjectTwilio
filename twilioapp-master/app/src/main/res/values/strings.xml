@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twilio app</string>
+    <string name="send">Send</string>
+</resources>
